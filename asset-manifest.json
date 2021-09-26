@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/encript/static/css/main.3144a664.chunk.css",
-    "main.js": "/encript/static/js/main.271ea902.chunk.js",
-    "main.js.map": "/encript/static/js/main.271ea902.chunk.js.map",
+    "main.js": "/encript/static/js/main.24c97ad1.chunk.js",
+    "main.js.map": "/encript/static/js/main.24c97ad1.chunk.js.map",
     "runtime-main.js": "/encript/static/js/runtime-main.457b0a71.js",
     "runtime-main.js.map": "/encript/static/js/runtime-main.457b0a71.js.map",
     "static/js/2.83915e11.chunk.js": "/encript/static/js/2.83915e11.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.457b0a71.js",
     "static/js/2.83915e11.chunk.js",
     "static/css/main.3144a664.chunk.css",
-    "static/js/main.271ea902.chunk.js"
+    "static/js/main.24c97ad1.chunk.js"
   ]
 }
