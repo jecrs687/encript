@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/encript/static/css/main.3144a664.chunk.css",
-    "main.js": "/encript/static/js/main.d93d9266.chunk.js",
-    "main.js.map": "/encript/static/js/main.d93d9266.chunk.js.map",
+    "main.css": "/encript/static/css/main.a1dd45fa.chunk.css",
+    "main.js": "/encript/static/js/main.2fe55990.chunk.js",
+    "main.js.map": "/encript/static/js/main.2fe55990.chunk.js.map",
     "runtime-main.js": "/encript/static/js/runtime-main.457b0a71.js",
     "runtime-main.js.map": "/encript/static/js/runtime-main.457b0a71.js.map",
     "static/js/2.83915e11.chunk.js": "/encript/static/js/2.83915e11.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.7b21b9db.chunk.js": "/encript/static/js/3.7b21b9db.chunk.js",
     "static/js/3.7b21b9db.chunk.js.map": "/encript/static/js/3.7b21b9db.chunk.js.map",
     "index.html": "/encript/index.html",
-    "static/css/main.3144a664.chunk.css.map": "/encript/static/css/main.3144a664.chunk.css.map",
-    "static/js/2.83915e11.chunk.js.LICENSE.txt": "/encript/static/js/2.83915e11.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/encript/static/media/logo.6ce24c58.svg"
+    "static/css/main.a1dd45fa.chunk.css.map": "/encript/static/css/main.a1dd45fa.chunk.css.map",
+    "static/js/2.83915e11.chunk.js.LICENSE.txt": "/encript/static/js/2.83915e11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.457b0a71.js",
     "static/js/2.83915e11.chunk.js",
-    "static/css/main.3144a664.chunk.css",
-    "static/js/main.d93d9266.chunk.js"
+    "static/css/main.a1dd45fa.chunk.css",
+    "static/js/main.2fe55990.chunk.js"
   ]
 }
